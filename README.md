@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashikur Rahman Likhon 👋</h1>
+<h1 align="center">Hi, I'm Ashikur Rahman Likhon </h1>
 <h3 align="center">Django Backend Developer | DRF · PostgreSQL · Celery · Docker</h3>
 
 <p align="center">
