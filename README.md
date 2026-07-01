@@ -1,56 +1,164 @@
-<h1 align="center">Hi, I'm Ashikur Rahman Likhon </h1>
-<h3 align="center">Django Backend Developer | DRF · PostgreSQL · Celery · Docker</h3>
+<div align="center">
 
-<p align="center">
-  I build production-grade backend systems — currently working on a live multi-tenant SaaS CRM serving UK mortgage brokers.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Django+Backend+Developer;DRF+%C2%B7+PostgreSQL+%C2%B7+Celery+%C2%B7+Docker" alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
+[![Location](https://img.shields.io/badge/-Dhaka%2C%20Bangladesh-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-### 🔭 What I'm working on
+</div>
 
-- **QOP CRM** — Multi-tenant SaaS backend for UK mortgage brokers, live in production.
-  🔗 [API Docs](https://api.staging.qopcrm.com/api/docs) · [Repo](https://github.com/ashik317/qop_api)
-- **Landkeeper** — Portfolio landlord management platform, currently in development.
-  🔗 [Live App](https://crm.landkeeper.co.uk/client/landlord/dashboard) · [Repo](https://github.com/ashik317/landkeeper-backend)
+<br>
 
-### 🛠️ Tech Stack
+## About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-</p>
+I'm a backend developer focused on **Django** and **DRF**, currently building production APIs at **Raptor Tech Company** for a live multi-tenant SaaS CRM used by UK mortgage brokers. I care about clean, maintainable code and enjoy owning a feature end-to-end — from data modelling and API design through to deployment.
 
-### 📌 Featured Projects
+```
+class Developer:
+    def __init__(self):
+        self.name = "Ashikur Rahman Likhon"
+        self.role = "Django Backend Developer"
+        self.stack = ["Django", "DRF", "PostgreSQL", "Celery", "Redis", "Docker"]
+        self.currently_building = "Landkeeper — a landlord management platform"
+        self.always_learning = True
+```
 
-| Project | Description | Stack |
-|---|---|---|
-| [QOP CRM](https://github.com/ashik317/qop_api) | Live multi-tenant SaaS CRM for UK mortgage brokers | Django · DRF · PostgreSQL · Celery · Redis · Docker |
-| [Landkeeper](https://github.com/ashik317/landkeeper-backend) | Landlord property/mortgage/tenant management platform | Django · DRF · PostgreSQL · Celery · Redis · Docker |
-| [Online Shop System](https://github.com/ashik317/Building-an-Online-Shop) | E-commerce backend with Stripe payments | Django · Celery · RabbitMQ · Stripe |
-| [E-Learning Platform API](https://github.com/ashik317/E-Learning-Platform) | Versioned REST API for course/student management | Django · DRF · PostgreSQL |
+<br>
 
-### 📈 GitHub Stats
+## Work Experience
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashik317&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik317&theme=dark&hide_border=true" height="165" />
-</p>
+**Django Backend Developer** · Raptor Tech Company · *Jan 2025 – Present*
+Building and maintaining production APIs for **QOP CRM**, a live multi-tenant SaaS platform for UK mortgage brokers — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning.
 
-### 📫 Connect with me
+<br>
 
-<p>
-  <a href="https://linkedin.com/in/ashikur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdarlikhon317@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [QOP CRM](https://github.com/ashik317/qop_api)
+Multi-tenant SaaS CRM backend for UK mortgage brokers, live in production with hierarchical (parent → child) organisation structure and dedicated tenant subdomains.
+
+`Django` `DRF` `PostgreSQL` `Celery` `Redis` `Docker` `SendGrid`
+
+[Live App](https://cityplus.qopcrm.com/auth/login) · [API Docs](https://api.staging.qopcrm.com/api/docs) · [Repo](https://github.com/ashik317/qop_api)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 [Landkeeper](https://github.com/ashik317/landkeeper-backend)
+Landlord management platform in development — property, mortgage, tenant, and compliance tracking in one place, with role-based access for landlords, advisers, and accountants.
+
+`Django` `DRF` `PostgreSQL` `Celery` `Redis` `Docker`
+
+[Live App](https://crm.landkeeper.co.uk/client/landlord/dashboard) · [API Docs](https://api.landkeeper.co.uk/api/docs/) · [Repo](https://github.com/ashik317/landkeeper-backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Online Shop System](https://github.com/ashik317/Building-an-Online-Shop)
+E-commerce backend with Stripe checkout, webhook handling, and async order processing via Celery and RabbitMQ.
+
+`Django` `Celery` `RabbitMQ` `Stripe`
+
+[Repo](https://github.com/ashik317/Building-an-Online-Shop)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [E-Learning Platform API](https://github.com/ashik317/E-Learning-Platform)
+Versioned REST APIs (v1/v2) for course and student management, with a normalised schema for enrolments and progress tracking.
+
+`Django` `DRF` `PostgreSQL` `API Versioning`
+
+[Repo](https://github.com/ashik317/E-Learning-Platform)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+<br>
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React%20(basic)-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td valign="top" width="25%">
+
+**Databases**
+<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Tools & Infra**
+<br>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashik317&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik317&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## Education
+
+**BSc in Computer Science and Engineering** — United International University, Dhaka
+*Jan 2019 – May 2023*
+
+🏆 1st Runner-up, Software Engineering Lab, CSE Project Show (2022)
+🏆 1st Runner-up, Cloud Computing, CSE Project Show (2023)
+
+<br>
+
+<div align="center">
+
+**Let's connect** — [LinkedIn](https://linkedin.com/in/ashikur-rahman-likhon) · [Email](mailto:mdarlikhon317@gmail.com)
+
+</div>
