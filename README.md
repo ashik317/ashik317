@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Likhon317/)
 [![Location](https://img.shields.io/badge/-Dhaka%2C%20Bangladesh-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -12,24 +13,20 @@
 
 ## About Me
 
-I'm a backend developer focused on **Django** and **DRF**, currently building production APIs at **Raptor Tech Company** for a live multi-tenant SaaS CRM used by UK mortgage brokers. I care about clean, maintainable code and enjoy owning a feature end-to-end — from data modelling and API design through to deployment.
+I'm a Computer Science & Engineering graduate and backend developer specializing in high-performance, scalable web applications. I care about clean, maintainable code and enjoy owning a feature end-to-end — from data modelling and API design through to deployment.
 
-```
-class Developer:
-    def __init__(self):
-        self.name = "Ashikur Rahman Likhon"
-        self.role = "Django Backend Developer"
-        self.stack = ["Django", "DRF", "PostgreSQL", "Celery", "Redis", "Docker"]
-        self.currently_building = "Landkeeper — a landlord management platform"
-        self.always_learning = True
-```
+* 🌍 **Location:** Dhaka, Bangladesh
+* 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
+* 🏢 **Currently at:** Raptor Tech Company — Django Backend Developer
+* ⚡ **Focus:** Django · DRF · PostgreSQL · Celery · Docker
+* 🧠 **Active competitive programmer** on [LeetCode](https://leetcode.com/u/Likhon317/)
 
 <br>
 
-## Work Experience
+## Professional Experience
 
-**Django Backend Developer** · Raptor Tech Company · *Jan 2025 – Present*
-Building and maintaining production APIs for **QOP CRM**, a live multi-tenant SaaS platform for UK mortgage brokers — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning.
+**Django Backend Developer — Raptor Tech Company** *(Present)*
+Building and maintaining production APIs for QOP CRM, a live multi-tenant SaaS platform for UK mortgage brokers — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning.
 
 <br>
 
