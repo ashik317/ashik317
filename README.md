@@ -156,6 +156,6 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 <div align="center">
 
-**Let's connect** — [LinkedIn](https://linkedin.com/in/ashikur-rahman-likhon) · [Email](mailto:mdarlikhon317@gmail.com)
+**Let's connect** — [Portfolio](https://portfolio-nine-sigma-50.vercel.app/) · [LinkedIn](https://linkedin.com/in/ashikur-rahman-likhon) · [Email](mailto:mdarlikhon317@gmail.com)
 
 </div>
