@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Django+Backend+Developer;DRF+%C2%B7+PostgreSQL+%C2%B7+Celery+%C2%B7+Docker" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-nine-sigma-50.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Likhon317/)
