@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Software+Engineer;DRF+%C2%B7+Django+%C2%B7+React+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Celery+%C2%B7+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Software+Engineer;DRF+%7C+Django+%7C+React;FastAPI+%7C+PostgreSQL+%7C+Celery+%7C+Docker" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-nine-sigma-50.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
