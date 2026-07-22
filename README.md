@@ -86,7 +86,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 **Languages**
 <br>
@@ -98,17 +98,27 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 **Backend**
 <br>
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React%20(basic)-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
+
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 **Databases**
 <br>
@@ -118,15 +128,27 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-**Tools & Infra**
+**Data & ML**
+<br>
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Tools, Infra & Payments**
 <br>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![GoCardless](https://img.shields.io/badge/-GoCardless-000000?style=flat-square&logo=gocardless&logoColor=white)
 
 </td>
 </tr>
