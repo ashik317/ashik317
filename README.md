@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Software+Engineer;DRF+%7C+Django+%7C+React;FastAPI+%7C+PostgreSQL+%7C+Celery+%7C+Docker" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-nine-sigma-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Likhon317/)
-[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-nine-sigma-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Likhon317/)
+[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-2A2A2A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
