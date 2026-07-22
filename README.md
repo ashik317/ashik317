@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashikur+Rahman+Likhon;Software+Engineer;DRF+%7C+Django+%7C+React;FastAPI+%7C+PostgreSQL+%7C+Celery+%7C+Docker" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20Developer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-nine-sigma-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikur-rahman-likhon)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarlikhon317@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Likhon317/)
-[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-2A2A2A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Bootstrap+%7C+Tailwind+CSS" alt="Typing SVG" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2F81F7)](https://portfolio-nine-sigma-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ashikur-rahman-likhon)
+[![Gmail](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdarlikhon317@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Likhon317/)
+[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-161B22?style=for-the-badge&logo=googlemaps&logoColor=4285F4)](#)
 
 </div>
 
