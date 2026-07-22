@@ -94,30 +94,30 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 **Languages**
 <br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=openjdk&logoColor=E76F00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
+![HTML](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
 
 </td>
 <td valign="top" width="33%">
 
 **Backend**
 <br>
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-161B22?style=flat-square&logo=django&logoColor=44B78B)
+![DRF](https://img.shields.io/badge/-DRF-161B22?style=flat-square&logo=django&logoColor=A30000)
+![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
 
 </td>
 <td valign="top" width="33%">
 
 **Frontend**
 <br>
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 </td>
 </tr>
@@ -126,33 +126,33 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 **Databases**
 <br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/-SQLite-161B22?style=flat-square&logo=sqlite&logoColor=51A0D5)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-161B22?style=flat-square&logo=python&logoColor=D71F00)
 
 </td>
 <td valign="top" width="33%">
 
 **Data & ML**
 <br>
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488)
+![NumPy](https://img.shields.io/badge/-NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-161B22?style=flat-square&logo=plotly&logoColor=11557C)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
 </td>
 <td valign="top" width="33%">
 
 **Tools, Infra & Payments**
 <br>
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![GoCardless](https://img.shields.io/badge/-GoCardless-000000?style=flat-square&logo=gocardless&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![Celery](https://img.shields.io/badge/-Celery-161B22?style=flat-square&logo=celery&logoColor=37814A)
+![Redis](https://img.shields.io/badge/-Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![Git](https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+![Stripe](https://img.shields.io/badge/-Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF)
+![GoCardless](https://img.shields.io/badge/-GoCardless-161B22?style=flat-square&logo=gocardless&logoColor=E0E0E0)
 
 </td>
 </tr>
