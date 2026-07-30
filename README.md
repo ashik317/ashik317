@@ -31,7 +31,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 ## Professional Experience
 
 **Software Engineer — Raptor Tech Company** *(Present)*
-Building and maintaining production APIs for QOP CRM, a live multi-tenant SaaS platform for UK mortgage brokers — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning.
+Building and maintaining production APIs for QOP CRM and Landkeeper, live multi-tenant SaaS platforms for UK mortgage brokers and landlords — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning. Also implemented payment processing with Stripe and GoCardless, Google OAuth and JWT-based authentication, and real-time notifications and chat.
 
 <br>
 
