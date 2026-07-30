@@ -22,7 +22,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 
 * 🌍 **Location:** Dhaka, Bangladesh
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
-* 🏢 **Currently at:** Raptor Tech Company — Django Backend Developer
+* 🏢 **Currently at:** Raptor Tech Company — Software Engineer
 * ⚡ **Focus:** Django · DRF · PostgreSQL · Celery · Docker
 * 🧠 **Active competitive programmer** on [LeetCode](https://leetcode.com/u/Likhon317/)
 
@@ -30,7 +30,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 
 ## Professional Experience
 
-**Django Backend Developer — Raptor Tech Company** *(Present)*
+**Software Engineer — Raptor Tech Company** *(Present)*
 Building and maintaining production APIs for QOP CRM, a live multi-tenant SaaS platform for UK mortgage brokers — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning.
 
 <br>
