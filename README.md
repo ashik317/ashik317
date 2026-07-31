@@ -32,7 +32,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 
 <div align="center">
 <a href="https://leetcode.com/u/Likhon317/">
-  <img src="./assets/50.gif" alt="LeetCode 50 Days Badge 2026" width="140"/>
+  <img src="./50%20(1).gif" alt="LeetCode 50 Days Badge 2026" width="140"/>
 </a>
 <br>
 <sub><b>LeetCode — 50 Days Badge 2026</b> · Solving problems 50+ days in 2026</sub>
