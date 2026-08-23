@@ -174,7 +174,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 ## GitHub Stats
 <div align="center">
-<img height="165" src="https://streak-stats.demolab.com/?user=ashik317&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashik317&theme=tokyonight&hide_border=true" />
 </div>
 <br>
 
