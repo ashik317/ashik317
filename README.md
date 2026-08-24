@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/> -->
+
+https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2F81F7&height=180&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineer&descAlignY=65&descSize=18&animation=fadeIn
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Bootstrap+%7C+Tailwind+CSS" alt="Typing SVG" />
 
