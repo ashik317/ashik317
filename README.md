@@ -24,6 +24,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
 * 🏢 **Currently at:** Raptor Tech Company — Software Engineer
 * ⚡ **Focus:** Django · DRF · PostgreSQL · Celery · Docker
+* 📚 **Currently learning:** React · Next.js · Tailwind CSS
 * 🧠 **Active competitive programmer** on [LeetCode](https://leetcode.com/u/Likhon317/)
 
 <br>
@@ -128,6 +129,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 **Frontend**
 <br>
 ![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
