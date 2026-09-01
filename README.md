@@ -23,7 +23,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 * 🌍 **Location:** Dhaka, Bangladesh
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
 * 🏢 **Currently at:** Raptor Tech Company — Software Engineer
-* ⚡ **Focus:** Django · DRF · PostgreSQL · Celery · Docker
+* ⚡ Focus: Django · Django ORM · DRF · PostgreSQL · Celery · Docker
 * 📚 **Currently learning:** React · Next.js · Tailwind CSS
 * 🧠 **Active competitive programmer** on [LeetCode](https://leetcode.com/u/Likhon317/)
 
