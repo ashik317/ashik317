@@ -184,7 +184,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 **BSc in Computer Science and Engineering** — United International University, Dhaka
 
-🏆 1st Runner-up, Software Engineering Lab, CSE Project Show (2022)
+🏆 1st Runner-up, Software Engineering, CSE Project Show (2022)
 🏆 1st Runner-up, Cloud Computing, CSE Project Show (2023)
 
 <br>
