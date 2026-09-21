@@ -32,14 +32,27 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 ## Achievements
 
 <div align="center">
-<a href="https://leetcode.com/u/Likhon317/">
-  <img src="./50%20(1).gif" alt="LeetCode 50 Days Badge 2026" width="140"/>
-</a>
-<br>
-<sub><b>LeetCode — 50 Days Badge 2026</b> · Solving problems 50+ days in 2026</sub>
-</div>
 
-<br>
+<table>
+<tr>
+<td align="center">
+  <a href="https://leetcode.com/u/Likhon317/">
+    <img src="./leetcode-50-days-2026.gif" alt="LeetCode 50 Days Badge 2026" width="140"/>
+  </a>
+  <br>
+  <sub><b>LeetCode - 50 Days Badge 2026</b><br>Solved problems 50+ days in 2026</sub>
+</td>
+<td align="center">
+  <a href="https://leetcode.com/u/Likhon317/">
+    <img src="./leetcode-100-days-2026.gif" alt="LeetCode 100 Days Badge 2026" width="140"/>
+  </a>
+  <br>
+  <sub><b>LeetCode - 100 Days Badge 2026</b><br>Solved problems 100+ days in 2026</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Professional Experience
 
