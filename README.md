@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Bootstrap+%7C+Tailwind+CSS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Next.js+%7C+Tailwind+%7C+shadcn%2Fui" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,7 +24,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 * 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
 * 🏢 **Currently at:** Raptor Tech Company — Software Engineer
 * ⚡ Focus: Django · Django ORM · DRF · PostgreSQL · Celery · Docker
-* 📚 **Currently learning:** React · Next.js · Tailwind CSS, FastAPI
+* 📚 **Currently learning:** React · Next.js · Tailwind CSS · shadcn/ui · FastAPI
 * 🧠 **Active competitive programmer** on [LeetCode](https://leetcode.com/u/Likhon317/)
 
 <br>
@@ -116,71 +116,77 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=openjdk&logoColor=E76F00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/-C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
-![HTML](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-<br>
-![Django](https://img.shields.io/badge/-Django-161B22?style=flat-square&logo=django&logoColor=44B78B)
-![DRF](https://img.shields.io/badge/-DRF-161B22?style=flat-square&logo=django&logoColor=A30000)
-![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
+<td width="190" valign="middle"><b>💻 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="33%">
-
-**Databases**
-<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/-SQLite-161B22?style=flat-square&logo=sqlite&logoColor=51A0D5)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-161B22?style=flat-square&logo=python&logoColor=D71F00)
-
+<td valign="middle"><b>⚙️ Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </td>
-<td valign="top" width="33%">
-
-**Data & ML**
-<br>
-![Pandas](https://img.shields.io/badge/-Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488)
-![NumPy](https://img.shields.io/badge/-NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-161B22?style=flat-square&logo=plotly&logoColor=11557C)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-
+</tr>
+<tr>
+<td valign="middle"><b>🎨 Frontend & UI</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/static/v1?label=&message=shadcn/ui&color=000000&style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </td>
-<td valign="top" width="33%">
-
-**Tools, Infra & Payments**
-<br>
-![Docker](https://img.shields.io/badge/-Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
-![Celery](https://img.shields.io/badge/-Celery-161B22?style=flat-square&logo=celery&logoColor=37814A)
-![Redis](https://img.shields.io/badge/-Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-![Git](https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032)
-![Stripe](https://img.shields.io/badge/-Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF)
-![GoCardless](https://img.shields.io/badge/-GoCardless-161B22?style=flat-square&logo=gocardless&logoColor=E0E0E0)
-
+</tr>
+<tr>
+<td valign="middle"><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>📊 Data & ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🛠️ DevOps & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🖥️ Operating Systems</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>💳 Payments</b></td>
+<td>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/GoCardless-1C1B1B?style=for-the-badge" alt="GoCardless"/>
 </td>
 </tr>
 </table>
