@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F3A68,100:2F81F7&height=240&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack&descSize=18&descAlignY=56&descColor=C9D1D9&animation=fadeIn" alt="Ashikur Rahman Likhon" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Next.js+%7C+Tailwind+%7C+shadcn%2Fui" alt="Typing SVG" />
+<a href="https://github.com/ashik317"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+scalable+APIs+with+Django+%26+DRF;Multi-tenant+SaaS+%E2%80%A2+PostgreSQL+%E2%80%A2+Celery;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+shadcn%2Fui" alt="Typing SVG"/></a>
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2F81F7)](https://portfolio-nine-sigma-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ashikur-rahman-likhon)
-[![Gmail](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdarlikhon317@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Likhon317/)
-[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-161B22?style=for-the-badge&logo=googlemaps&logoColor=4285F4)](#)
+<a href="https://portfolio-nine-sigma-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/ashikur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
+<a href="mailto:mdarlikhon317@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://leetcode.com/u/Likhon317/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-0D1117?style=for-the-badge&logo=googlemaps&logoColor=34A853" alt="Dhaka, Bangladesh"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ashik317&style=flat-square&color=2F81F7&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ashik317?style=flat-square&color=2F81F7&label=Followers" alt="Followers"/>
 
 </div>
 
@@ -114,79 +119,68 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 ## Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td width="190" valign="middle"><b>💻 Languages</b></td>
+<td align="right" width="170"><sub><b>LANGUAGES</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,c,html,css&theme=dark" alt="py,java,js,c,html,css"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>⚙️ Backend</b></td>
+<td align="right" width="170"><sub><b>BACKEND</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="django,fastapi"/>
+<br>
+<img src="https://img.shields.io/badge/DRF-161B22?style=flat-square&logo=django&logoColor=A30000" alt="DRF"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>🎨 Frontend & UI</b></td>
+<td align="right" width="170"><sub><b>FRONTEND &amp; UI</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/static/v1?label=&message=shadcn/ui&color=000000&style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="react,nextjs,tailwind,bootstrap"/>
+<br>
+<img src="https://img.shields.io/badge/shadcn%2Fui-161B22?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>🗄️ Databases</b></td>
+<td align="right" width="170"><sub><b>DATABASES</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="postgres,mysql,sqlite"/>
+<br>
+<img src="https://img.shields.io/badge/SQLAlchemy-161B22?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>📊 Data & ML</b></td>
+<td align="right" width="170"><sub><b>DATA &amp; ML</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="sklearn"/>
+<br>
+<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=python&logoColor=11557C" alt="Matplotlib"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>🛠️ DevOps & Tools</b></td>
+<td align="right" width="170"><sub><b>DEVOPS &amp; TOOLS</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=docker,redis,rabbitmq,git,github,postman,vscode&theme=dark" alt="docker,redis,rabbitmq,git,github,postman,vscode"/>
+<br>
+<img src="https://img.shields.io/badge/Celery-161B22?style=flat-square&logo=celery&logoColor=37814A" alt="Celery"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>🖥️ Operating Systems</b></td>
+<td align="right" width="170"><sub><b>OPERATING SYSTEMS</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,apple&theme=dark" alt="linux,ubuntu,kali,apple"/>
+<br>
+<img src="https://img.shields.io/badge/Zorin%20OS-161B22?style=flat-square&logo=zorin&logoColor=15A6F0" alt="Zorin OS"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>💳 Payments</b></td>
+<td align="right" width="170"><sub><b>PAYMENTS</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/GoCardless-1C1B1B?style=for-the-badge" alt="GoCardless"/>
+<img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"/>
+<img src="https://img.shields.io/badge/GoCardless-161B22?style=flat-square" alt="GoCardless"/>
 </td>
 </tr>
 </table>
@@ -213,3 +207,5 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 **Let's connect** — [Portfolio](https://portfolio-nine-sigma-50.vercel.app/) · [LinkedIn](https://linkedin.com/in/ashikur-rahman-likhon) · [Email](mailto:mdarlikhon317@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F3A68,100:2F81F7&height=120&section=footer" width="100%" alt="footer"/>
