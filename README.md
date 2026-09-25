@@ -1,21 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A68,100:2F81F7&height=220&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" alt="Ashikur Rahman Likhon" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=200&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="header banner" width="100%"/>
 
-<a href="https://github.com/ashik317"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+scalable+APIs+with+Django+%26+DRF;Multi-tenant+SaaS+%E2%80%A2+PostgreSQL+%E2%80%A2+Celery;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+shadcn%2Fui" alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+FastAPI;PostgreSQL+%7C+Celery+%7C+Docker;React+%7C+Bootstrap+%7C+Tailwind+CSS" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<a href="https://portfolio-nine-sigma-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ashikur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
-<a href="mailto:mdarlikhon317@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://leetcode.com/u/Likhon317/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-<img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-0D1117?style=for-the-badge&logo=googlemaps&logoColor=34A853" alt="Dhaka, Bangladesh"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ashik317&style=flat-square&color=2F81F7&labelcolor=161B22&label=Profile+Views" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ashik317?style=flat-square&color=2F81F7&labelColor=161B22&label=Followers" alt="Followers"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2F81F7)](https://portfolio-nine-sigma-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3MCAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczMHYyMC41NEMwIDIzLjIzLjc5IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzcgMS43OC0xLjczVjEuNzNDMjQgLjc3IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/ashikur-rahman-likhon)
+[![Gmail](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdarlikhon317@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Likhon317/)
+[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-161B22?style=for-the-badge&logo=googlemaps&logoColor=4285F4)](#)
 
 </div>
 
@@ -119,68 +114,87 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 ## Tech Stack
 
-<table align="center">
+<table>
 <tr>
-<td align="right" width="170"><sub><b>LANGUAGES</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=py,java,js,c,html,css&theme=dark" alt="py,java,js,c,html,css"/>
-</td>
-</tr>
-<tr>
-<td align="right" width="170"><sub><b>BACKEND</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="django,fastapi"/>
+<td valign="top" width="33%">
+
+**Languages**
 <br>
-<img src="https://img.shields.io/badge/DRF-161B22?style=flat-square&logo=django&logoColor=A30000" alt="DRF"/>
+![Python](https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=openjdk&logoColor=E76F00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
+![HTML](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-161B22?style=flat-square&logo=css&logoColor=1572B6)
+
 </td>
-</tr>
-<tr>
-<td align="right" width="170"><sub><b>FRONTEND &amp; UI</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="react,nextjs,tailwind,bootstrap"/>
+<td valign="top" width="33%">
+
+**Backend**
 <br>
-<img src="https://img.shields.io/badge/shadcn%2Fui-161B22?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui"/>
+![Django](https://img.shields.io/badge/-Django-161B22?style=flat-square&logo=django&logoColor=44B78B)
+![DRF](https://img.shields.io/badge/-DRF-161B22?style=flat-square&logo=django&logoColor=A30000)
+![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
+
 </td>
-</tr>
-<tr>
-<td align="right" width="170"><sub><b>DATABASES</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="postgres,mysql,sqlite"/>
+<td valign="top" width="33%">
+
+**Frontend**
 <br>
-<img src="https://img.shields.io/badge/SQLAlchemy-161B22?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy"/>
+![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-161B22?style=flat-square&logo=shadcnui&logoColor=FFFFFF)
+
 </td>
 </tr>
 <tr>
-<td align="right" width="170"><sub><b>DATA &amp; ML</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="sklearn"/>
+<td valign="top" width="33%">
+
+**Databases**
 <br>
-<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=python&logoColor=11557C" alt="Matplotlib"/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/-SQLite-161B22?style=flat-square&logo=sqlite&logoColor=51A0D5)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-161B22?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
+
 </td>
-</tr>
-<tr>
-<td align="right" width="170"><sub><b>DEVOPS &amp; TOOLS</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,redis,rabbitmq,git,github,postman,vscode&theme=dark" alt="docker,redis,rabbitmq,git,github,postman,vscode"/>
+<td valign="top" width="33%">
+
+**Data & ML**
 <br>
-<img src="https://img.shields.io/badge/Celery-161B22?style=flat-square&logo=celery&logoColor=37814A" alt="Celery"/>
+![Pandas](https://img.shields.io/badge/-Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488)
+![NumPy](https://img.shields.io/badge/-NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-161B22?style=flat-square&logo=python&logoColor=11557C)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+
 </td>
-</tr>
-<tr>
-<td align="right" width="170"><sub><b>OPERATING SYSTEMS</b></sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,apple&theme=dark" alt="linux,ubuntu,kali,apple"/>
+<td valign="top" width="33%">
+
+**Tools, Infra & Payments**
 <br>
-<img src="https://img.shields.io/badge/Zorin%20OS-161B22?style=flat-square&logo=zorin&logoColor=15A6F0" alt="Zorin OS"/>
+![Docker](https://img.shields.io/badge/-Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![Celery](https://img.shields.io/badge/-Celery-161B22?style=flat-square&logo=celery&logoColor=37814A)
+![Redis](https://img.shields.io/badge/-Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![Git](https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+![Stripe](https://img.shields.io/badge/-Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF)
+![GoCardless](https://img.shields.io/badge/-GoCardless-161B22?style=flat-square)
+
 </td>
 </tr>
 <tr>
-<td align="right" width="170"><sub><b>PAYMENTS</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"/>
-<img src="https://img.shields.io/badge/GoCardless-161B22?style=flat-square" alt="GoCardless"/>
+<td valign="top" colspan="3">
+
+**Operating Systems**
+<br>
+![Linux](https://img.shields.io/badge/-Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-161B22?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-161B22?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-161B22?style=flat-square&logo=zorin&logoColor=15A6F0)
+![macOS](https://img.shields.io/badge/-macOS-161B22?style=flat-square&logo=apple&logoColor=FFFFFF)
+
 </td>
 </tr>
 </table>
@@ -207,5 +221,3 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 **Let's connect** — [Portfolio](https://portfolio-nine-sigma-50.vercel.app/) · [LinkedIn](https://linkedin.com/in/ashikur-rahman-likhon) · [Email](mailto:mdarlikhon317@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A68,100:2F81F7&height=120&section=footer" width="100%" alt="footer"/>
