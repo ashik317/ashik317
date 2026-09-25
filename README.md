@@ -133,7 +133,6 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 **Backend**
 <br>
 ![Django](https://img.shields.io/badge/-Django-161B22?style=flat-square&logo=django&logoColor=44B78B)
-![Django ORM](https://img.shields.io/badge/-Django%20ORM-161B22?style=flat-square&logo=django&logoColor=44B78B)
 ![DRF](https://img.shields.io/badge/-DRF-161B22?style=flat-square&logo=django&logoColor=A30000)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
 
@@ -154,11 +153,12 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 <tr>
 <td valign="top" width="33%">
 
-**Databases**
+**Databases & ORMs**
 <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/-SQLite-161B22?style=flat-square&logo=sqlite&logoColor=51A0D5)
+![Django ORM](https://img.shields.io/badge/-Django%20ORM-161B22?style=flat-square&logo=django&logoColor=44B78B)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-161B22?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
 
 </td>
