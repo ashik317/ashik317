@@ -133,6 +133,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 **Backend**
 <br>
 ![Django](https://img.shields.io/badge/-Django-161B22?style=flat-square&logo=django&logoColor=44B78B)
+![Django ORM](https://img.shields.io/badge/-Django%20ORM-161B22?style=flat-square&logo=django&logoColor=44B78B)
 ![DRF](https://img.shields.io/badge/-DRF-161B22?style=flat-square&logo=django&logoColor=A30000)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
 
@@ -146,6 +147,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-161B22?style=flat-square&logo=shadcnui&logoColor=FFFFFF)
+![daisyUI](https://img.shields.io/badge/-daisyUI-161B22?style=flat-square&logo=daisyui&logoColor=5A0EF8)
 
 </td>
 </tr>
