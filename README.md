@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F3A68,100:2F81F7&height=240&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack&descSize=18&descAlignY=56&descColor=C9D1D9&animation=fadeIn" alt="Ashikur Rahman Likhon" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A68,100:2F81F7&height=220&section=header&text=Ashikur%20Rahman%20Likhon&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" alt="Ashikur Rahman Likhon" width="100%"/>
 
 <a href="https://github.com/ashik317"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+scalable+APIs+with+Django+%26+DRF;Multi-tenant+SaaS+%E2%80%A2+PostgreSQL+%E2%80%A2+Celery;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+shadcn%2Fui" alt="Typing SVG"/></a>
 
-<br><br>
+<br>
 
 <a href="https://portfolio-nine-sigma-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ashikur-rahman-likhon"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
@@ -14,8 +14,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ashik317&style=flat-square&color=2F81F7&label=Profile+Views" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ashik317?style=flat-square&color=2F81F7&label=Followers" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ashik317&style=flat-square&color=2F81F7&labelcolor=161B22&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ashik317?style=flat-square&color=2F81F7&labelColor=161B22&label=Followers" alt="Followers"/>
 
 </div>
 
@@ -208,4 +208,4 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F3A68,100:2F81F7&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A68,100:2F81F7&height=120&section=footer" width="100%" alt="footer"/>
