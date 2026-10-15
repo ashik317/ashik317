@@ -59,6 +59,9 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 🏆 **1st Runner-up, Cloud Computing** — CSE Project Show (2023)
 
 </div>
+
+<br>
+
 ## Professional Experience
 
 **Software Engineer — Raptor Tech Company** *(Present)*
