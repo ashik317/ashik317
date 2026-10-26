@@ -67,7 +67,7 @@ I'm a Computer Science & Engineering graduate and backend developer specializing
 **Software Engineer — Raptor Tech Company** *(Present)*
 Building and maintaining production APIs for QOP CRM and Landkeeper, live multi-tenant SaaS platforms for UK mortgage brokers and landlords — covering multi-tenant architecture, role-based access control, background task processing, and PostgreSQL performance tuning. Also implemented payment processing with Stripe and GoCardless, Google OAuth and JWT-based authentication, and real-time notifications and chat.
 
-* 🔌 **Third-party API integrations:** integrated external services into production systems, including the **Affonso affiliate / referral programme** — referral tracking, sign-up and conversion attribution, and webhook handling to keep referral and commission data in sync with subscription payments.
+* 🔌 **Third-party API integrations:** integrated external services into production systems, including the **Affonso affiliate / referral programme** — referral tracking, sign-up and conversion attribution, and webhook handling to keep referral and commission data in sync with subscription payments — and the **Google Maps Platform API** for location features such as address lookup and map-based property views.
 
 <br>
 
@@ -194,6 +194,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 ![Stripe](https://img.shields.io/badge/-Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF)
 ![GoCardless](https://img.shields.io/badge/-GoCardless-161B22?style=flat-square)
 ![Affonso](https://img.shields.io/badge/-Affonso%20Referrals-161B22?style=flat-square)
+![Google Maps](https://img.shields.io/badge/-Google%20Maps%20API-161B22?style=flat-square&logo=googlemaps&logoColor=4285F4)
 
 </td>
 </tr>
