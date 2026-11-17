@@ -208,6 +208,7 @@ Versioned REST APIs (v1/v2) for course and student management, with a normalised
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-161B22?style=flat-square&logo=kalilinux&logoColor=557C94)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-161B22?style=flat-square&logo=zorin&logoColor=15A6F0)
 ![macOS](https://img.shields.io/badge/-macOS-161B22?style=flat-square&logo=apple&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/-Windows-161B22?style=flat-square)
 
 </td>
 </tr>
